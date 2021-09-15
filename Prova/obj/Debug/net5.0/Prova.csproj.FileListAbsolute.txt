@@ -1,0 +1,16 @@
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\bin\Debug\net5.0\Prova.exe
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\bin\Debug\net5.0\Prova.deps.json
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\bin\Debug\net5.0\Prova.runtimeconfig.json
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\bin\Debug\net5.0\Prova.runtimeconfig.dev.json
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\bin\Debug\net5.0\Prova.dll
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\bin\Debug\net5.0\ref\Prova.dll
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\bin\Debug\net5.0\Prova.pdb
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\obj\Debug\net5.0\Prova.csproj.AssemblyReference.cache
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\obj\Debug\net5.0\Prova.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\obj\Debug\net5.0\Prova.AssemblyInfoInputs.cache
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\obj\Debug\net5.0\Prova.AssemblyInfo.cs
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\obj\Debug\net5.0\Prova.csproj.CoreCompileInputs.cache
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\obj\Debug\net5.0\Prova.dll
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\obj\Debug\net5.0\ref\Prova.dll
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\obj\Debug\net5.0\Prova.pdb
+D:\Repositorio Local\Faculdade\UCL - Sistemas de Informação\Programação Avançada de Sistemas\Aula 7 (Prova 1)\Prova\obj\Debug\net5.0\Prova.genruntimeconfig.cache
